@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi, I'm Tessa!
+### Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/>GitHub Profile
 
-<!--
-**tessamero/tessamero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://tessamero.com"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/>Personal Website (In Construction Forever)</a> •
+  <a href="https://twitter.com/tessamero"><img src="https://img.icons8.com/color/96/000000/twitter-circled.png" height="16"/>Twitter</a> •
+  <a href="https://www.linkedin.com/in/tessamero"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
+  <a href="mailto:tessamero@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
+</p>
 
-Here are some ideas to get you started:
+#### Why not play a game of Tic-Tac-Toe<img src="https://img.icons8.com/material-outlined/96/000000/delete-sign.png" height="16"/><img src="https://img.icons8.com/material-outlined/96/000000/unchecked-circle.png" height="16"/> while you're here
+Click on a tile to play  
+The most picked move is chosen every hour
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current turn: <img src= "https://github.com/tessamero/tessamero/blob/master/assets/True.png" alt="Current Turn" width="32"/>
+
+| Tic | Tac | Toe |
+|--|--|--|
+| [![Tile 0](https://github.com/tessamero/tessamero/blob/master/assets/None.png)](https://cntr.click/5xW31GG) | [![Tile 1](https://github.com/tessamero/tessamero/blob/master/assets/None.png)](https://cntr.click/k6m4pLh) | [![Tile 2](https://github.com/tessamero/tessamero/blob/master/assets/None.png)](https://cntr.click/0Jy1NdB) |
+| [![Tile 3](https://github.com/tessamero/tessameroblob/master/assets/None.png)](https://cntr.click/y4BYk8p) | [![Tile 4](https://github.com/tessamero/tessamero/blob/master/assets/None.png)](https://cntr.click/VCtRg6b) | [![Tile 5](https://github.com/tessamero/tessamero/blob/master/assets/False.png)](https://github.com/tessamero) |
+| [![Tile 6](https://github.com/tessamero/tessamero/blob/master/assets/True.png)](https://github.com/tessamero) | [![Tile 7](https://github.com/tessamero/tessamero/blob/master/assets/False.png)](https://github.com/tessamero) | [![Tile 8](https://github.com/tessamero/tessamero/blob/master/assets/True.png)](https://github.com/tessamero) |
+
+## How it works
+
+Each open tile is a hyperlink embedded in an image which tracks the number of clicks and redirects you to back my profile.
+Every time the program is run it plays the move with maximum number of clicks.
+It uses GitHub Actions to run every hour using a cron job.
+The rest is just a regular game of Tic-Tac-Toe
+
+Forked from https://github.com/DoubleGremlin181
+    
+## About Me
+
+
+My name is Tessa Mero and I'm based in Seattle, WA. I'm in Developer Relations and in the tech industry for over a decade. I'm fascinated with web3, particulary with NFTs. gm!
+

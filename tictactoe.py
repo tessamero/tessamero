@@ -5,15 +5,15 @@ import os
 import random
 
 
-LINKS = {"Tile 0": "https://cntr.click/5xW31GG",
-         "Tile 1": "https://cntr.click/k6m4pLh",
-         "Tile 2": "https://cntr.click/0Jy1NdB",
-         "Tile 3": "https://cntr.click/y4BYk8p",
-         "Tile 4": "https://cntr.click/VCtRg6b",
-         "Tile 5": "https://cntr.click/b0a0hMb",
-         "Tile 6": "https://cntr.click/sGaY2s4",
-         "Tile 7": "https://cntr.click/5B5pmVK",
-         "Tile 8": "https://cntr.click/SG7sV89"}
+LINKS = {"Tile 0": "https://cntr.click/KDT2Q5h",
+         "Tile 1": "https://cntr.click/d4NC5sS",
+         "Tile 2": "https://cntr.click/jBHy3Fg",
+         "Tile 3": "https://cntr.click/R3zrD4P",
+         "Tile 4": "https://cntr.click/j6ApdN1",
+         "Tile 5": "https://cntr.click/qrMY1Ls",
+         "Tile 6": "https://cntr.click/632xQkR",
+         "Tile 7": "https://cntr.click/S5QqgcS",
+         "Tile 8": "https://cntr.click/Y6t1TBz"}
 
 
 def get_tile_count():

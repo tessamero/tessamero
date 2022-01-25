@@ -18,7 +18,7 @@ Current turn: <img src= "https://github.com/tessamero/tessamero/blob/main/assets
 |--|--|--|
 | [![Tile 0](https://github.com/tessamero/tessamero/blob/main/assets/None.png)](https://cntr.click/KDT2Q5h) | [![Tile 1](https://github.com/tessamero/tessamero/blob/main/assets/None.png)](https://cntr.click/KDT2Q5h) | [![Tile 2](https://github.com/tessamero/tessamero/blob/main/assets/None.png)](https://cntr.click/jBHy3Fg) |
 | [![Tile 3](https://github.com/tessamero/tessamero/blob/main/assets/None.png)](https://cntr.click/R3zrD4P) | [![Tile 4](https://github.com/tessamero/tessamero/blob/main/assets/None.png)](https://cntr.click/j6ApdN1) | [![Tile 5](https://github.com/tessamero/tessamero/blob/main/assets/False.png)](https://cntr.click/qrMY1Ls) |
-| [![Tile 6](https://github.com/tessamero/tessamero/blob/main/assets/True.png)](https://github.com/tessamero) | [![Tile 7](https://github.com/tessamero/tessamero/blob/main/assets/False.png)](https://github.com/tessamero) | [![Tile 8](https://github.com/tessamero/tessamero/blob/main/assets/True.png)](https://github.com/tessamero) |
+| [![Tile 6](https://github.com/tessamero/tessamero/blob/main/assets/True.png)](https://cntr.click/632xQkR) | [![Tile 7](https://github.com/tessamero/tessamero/blob/main/assets/False.png)](https://cntr.click/S5QqgcS) | [![Tile 8](https://github.com/tessamero/tessamero/blob/main/assets/True.png)](https://cntr.click/Y6t1TBz) |
 
 ## How it works
 
